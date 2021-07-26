@@ -1,0 +1,9 @@
+1. There is a high correlation between distance to the equator and high maximum temperatures. In the 
+	northern hemisphere chart, the lower the latitude (closer to 0), the higher the temperature. Vice versa for the
+	southern hemisphere chart, the higher the latitude (close to 0), the higher the temperature.
+
+2. There seems to be no correlation between latitude and humidity for both hemisheres. There's a slight positive correlation between latitude and
+	humidity in the northern hemisphere, but only very slightly. 
+
+3. Similarly, there doesn't seem to be a huge correlation between latitude and wind speed, with both hemispheres having a very slightly negative regression
+	line. I'd assume this is because wind speeds depends on geographical features like lakes, mountains, or forests, rather than the latitude of a location. 
